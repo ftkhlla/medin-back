@@ -1,0 +1,22 @@
+Insert into roles(id, name) values (nextval('role_sequence'), 'ROLE_USER');
+Insert into roles(id, name) values (nextval('role_sequence'), 'ROLE_DOCTOR');
+
+Insert into cities(id, name) values (1, 'нур-султан');
+Insert into cities(id, name) values (2, 'алматы');
+Insert into cities(id, name) values (3, 'шымкент');
+Insert into cities(id, name) values (4, 'актобе');
+Insert into cities(id, name) values (5, 'караганда');
+Insert into cities(id, name) values (6, 'атырау');
+Insert into cities(id, name) values (7, 'тараз');
+Insert into cities(id, name) values (8, 'павлодар');
+Insert into cities(id, name) values (9, 'семей');
+Insert into cities(id, name) values (10, 'усть-каменогорск');
+Insert into cities(id, name) values (11, 'кызылорда');
+Insert into cities(id, name) values (12, 'уральск');
+Insert into cities(id, name) values (13, 'костанай');
+Insert into cities(id, name) values (14, 'петропавловск');
+Insert into cities(id, name) values (15, 'актау');
+Insert into cities(id, name) values (16, 'темиртау');
+Insert into cities(id, name) values (17, 'туркестан');
+Insert into cities(id, name) values (18, 'талдыкорган');
+Insert into cities(id, name) values (19, 'кокшетау');
